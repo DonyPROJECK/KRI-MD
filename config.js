@@ -1,19 +1,19 @@
 //=============『 Utama 』================== //
-global.owner = ['62895327934887'] 
+global.owner = ['6281327748566'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Krizyn Ofc'
-global.numberowner = '62895327934887'
-global.instagram = 'https://instagram.com/mhdfakri_'
+global.nameowner = 'Donyy'
+global.numberowner = '6281327748566'
+global.instagram = 'https://instagram.com/donyy00999'
 global.github = 'https://github.com/krizynofc'
-global.dana = '081360482998'
-global.pulsa = '081360482998'
-global.gopay = '081360482998'
+global.dana = '081327748566'
+global.pulsa = '081327748566'
+global.gopay = '081327748566'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Krizyn-MD'
+global.namebot = 'Smile BOT'
 global.gc = 'https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV'
 global.web = 'https://lynk.id/kri.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = 'NIH KAK LIST SEWA NYA\n\n》1 MINGGU Rp 10.000\nMAKSIMAL 1 GRUP\n》1 BULAN  Rp 15.000\nMAKSIMAL 1 GRUP \n》3 BULAN Rp 20.000\nMAKSIMAL 1 GRUP + PREMIUM\n》PERMANEN Rp 30.000\nMAKSIMAL 3 GRUP\n》4 BULAN  Rp 25.000\nMAKSIMAL 2 GRUP + PREMIUM\n\nMAU NAMBAH GRUP LAGI \nPERMANEN Rp 25.000\nMAKSIMAL 2 GRUP'
@@ -25,8 +25,8 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '↻𝙺𝚁𝙸𝚉𝚈𝙽 𝙱𝙾𝚃 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙼𝙳'
 global.watermark = wm
-global.wm2 = ' ⊙────────❲ ᯤ ᴋʀɪᴢʏɴ ᴏꜰᴄ ❳'
-global.wm3 = 'ᯤ ᴋʀɪᴢʏɴ ᴏꜰᴄ'
+global.wm2 = ' ⊙────────❲ ᯤ smile md ❳'
+global.wm3 = 'ᯤ smile md'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
